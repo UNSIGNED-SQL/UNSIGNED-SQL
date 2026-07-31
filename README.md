@@ -30,3 +30,11 @@ Summary:<br>
 <b>* Distributions</b> <br><br>
 Summary: <br>
 &emsp;&emsp; Distributions is a required assignment using R to determine sales based on regions. The project goal was to review the sales by region, quarter, and other time. The end result was the ability to build graphs and visuals to provide to a user to show how the sales of the organization was doing. 
+
+
+<hr />
+<div align = "left">
+<h3>Blogs</h3>
+<hr />
+  <a href="https://medium.com/@momendez/data-science-and-philosophy-why-does-it-matter-a5560cc4972e?sharedUserId=momendez"> Medium Blog: Data Science and Philosophy</a>
+
