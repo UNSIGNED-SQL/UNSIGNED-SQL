@@ -18,7 +18,7 @@ From her projects and work experience, she has an understanding of querying, SQL
 <div align = "left">
 <h3>Projects</h3>
 <hr />
-The following is some of my projects. Please feel free to review my repositories <a href="https://github.com/UNSIGNED-SQL/DescartesMeltingCandle"> Unsigned-SQL Repository</a> <br><br><br>  
+The following is some of my projects. Please feel free to review my project repository <a href="https://github.com/UNSIGNED-SQL/DescartesMeltingCandle"> Unsigned-SQL Repository</a> <br><br><br>  
 <b>* Famed Artist</b> <br><br>
 Summary: <br>
 &emsp;&emsp;Famed Artist was created by generative AI. The goal is to find a way to use an AI Model to enhance something anything. I choose to create a fully fine tuned model that can act as a search engine within a repository that allows a user to link with a an artist that create their artwork. This is to benefit those that want original artwork and not using AI to create images or visuals. 
