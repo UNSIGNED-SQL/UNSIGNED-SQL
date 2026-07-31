@@ -8,7 +8,7 @@ Contact Information: <br>UntitledMo99@gmail.com
 <b>Biography</b> <br><br> 
 Monique started her higher education with a bachelor's in philosophy. Philosophy is a strong dynamic of their learning experiences. Philosophy can lend itself to all specialties. This was apparent in Data Science as there is a need for ethical considerations when working with data.   Currently, she works in an IT role supporting applications health and resilience. Her passion for technology led her on her a journey to an IT masters focused on Computer Information Systems. MSIS introduced data science and ignited a new passion of data science. After completion of her MSIS in 2025, she completed several data science courses in machine learning, R, and other focused areas. To further her education, she is pursuing her Masters in Data Science with a completion date of August 2026. 
 
-From her projects and work experience, she has an understanding of querying, SQL, R, Python, AI prompting, Model Generation, Regression models, and much more. 💻🧑‍🔬
+From her projects and work experience, she has an understanding of querying, SQL, R, Python, Data Visualizations, AI prompting, Model Generation, Regression models, and much more. 💻🧑‍🔬
 
 <div align = "center">
   <img width="227" height="227" alt="image" src="https://github.com/user-attachments/assets/aefd2f0d-6759-4ae3-8d9b-b50618398322" />
