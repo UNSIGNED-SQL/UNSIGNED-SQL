@@ -36,5 +36,7 @@ Summary: <br>
 <div align = "left">
 <h3>Blogs</h3>
 <hr />
-  <a href="https://medium.com/@momendez/data-science-and-philosophy-why-does-it-matter-a5560cc4972e?sharedUserId=momendez"> Medium Blog: Data Science and Philosophy</a>
+  <a href="https://medium.com/@momendez/data-science-and-philosophy-why-does-it-matter-a5560cc4972e?sharedUserId=momendez"> Medium Blog - Data Science and Philosophy</a>
+
+ <a href="https://www.linkedin.com/posts/monique-mendez-015a3b416_ugcPost-7489077847870062594-TgF0/utm_source=share&utm_medium=member_desktop&rcm=ACoAAGnfVVEBLiU7PJcZW4DW1Vr-e-PuhxVvdFM"> LinkedIn Post - Data Science: The Narrator of the Story </a>
 
